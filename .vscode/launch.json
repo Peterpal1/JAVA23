@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Assignment.Stack",
+            "projectName": "JAVA23_66abe299"
+        },
+        {
+            "type": "java",
             "name": "Queue",
             "request": "launch",
             "mainClass": "Assignment.Queue",

@@ -64,6 +64,17 @@ class Stack {
   }
 
 public static void main(String[] args) {
+
+
+
+  Stack stack = new Stack();
+  //Adding elements
+  stack.push(1);
+  stack.push(2);
+
+  stack.pop();
+  System.out.println("Top element of stack: " + stack.display());
+
     
 }
 }
