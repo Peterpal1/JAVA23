@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "redhat.telemetry.enabled": true,
+    "files.autoSave": "afterDelay",
+    "java.configuration.runtimes": [
+        {   "name": "JavaSE-1.8",
+            "path": "C:\\Program Files\\Java\\jre-1.8",
+            "sources": "C:\\Program Files\\Java\\jre-1.8",
+            "javadoc": "A:/Java23",
+            "default": true
+        }
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
